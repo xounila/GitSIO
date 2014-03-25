@@ -57,3 +57,4 @@ Liste des étudiants ayant réussi ce TP
 * Sylvain Pastor,
 * Lannes Mathieu,
 * Sitan Coulibaly.
+* LACOMBLEZ Alain
