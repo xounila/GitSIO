@@ -45,6 +45,6 @@ Liste des étudiants ayant réussi ce TP
 --------------------------------------
 
 
-* Sébastien Inion.
+* Sebastien Inion.
 * Jules Bemé.
 * Maxime SARRATO.
