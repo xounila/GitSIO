@@ -50,4 +50,5 @@ Liste des étudiants ayant réussi ce TP
 * Maxime SARRATO.
 * Cédric Lefèvre.
 * Florian Lecoeuche.
-* Loris Venturelli.
+* Jordy Guilbert.
+* Loris Venturelli
