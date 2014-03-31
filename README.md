@@ -59,4 +59,3 @@ Liste des étudiants ayant réussi ce TP
 * Sitan Coulibaly,
 * Maxime Edwards,
 * Dazzan Edwin.
-* Julien Martinez (La poutre du 11).
