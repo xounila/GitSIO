@@ -53,3 +53,4 @@ Liste des étudiants ayant réussi ce TP
 * Jordy Guilbert,
 * Adrien Expert.
 * Loris Venturelli.
+* Valentin Boyer
