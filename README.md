@@ -52,3 +52,4 @@ Liste des étudiants ayant réussi ce TP
 * Florian Lecoeuche,
 * Jordy Guilbert,
 * Adrien Expert.
+* Loris Venturelli.
