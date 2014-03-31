@@ -6,7 +6,7 @@
 * Dupliquez (*fork*) le projet GitSIO dans votre espace public.
 * Récupérez sur votre disque dur les sources du projet.
 
-        git clone git@github.com:votrecompte/GitSIO.git
+        git clone https://github.com/SebInfo/GitSIO.git
 
 * Indiquez le dépôt officiel :
 
