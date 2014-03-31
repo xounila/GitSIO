@@ -54,5 +54,4 @@ Liste des étudiants ayant réussi ce TP
 * Adrien Expert.
 * Loris Venturelli.
 * Valentin Boyer
-* Sylvain Pastor,
->>>>>>> 112e226aa635ff24c8a2d506c326f9a42680f3bc
+* Sylvain Pastor.
