@@ -56,4 +56,5 @@ Liste des étudiants ayant réussi ce TP
 * Valentin Boyer,
 * Sylvain Pastor,
 * Lannes Mathieu,
-* Sitan Coulibaly.
+* Sitan Coulibaly,
+* Maxime Edwards.
