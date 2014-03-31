@@ -11,7 +11,7 @@
 * Indiquez le dépôt officiel :
 
         cd GitSIO
-        git remote add official https://github/votrecompte/GitSIO.git 
+        git remote add official https://github.com/votrecompte/GitSIO.git 
 
 * Sur votre disque dur, ajoutez à la fin de ce fichier le prénom et le nom d'un des membres du binôme. La ligne doit commencer par une étoile. Corrigez la liste pour que la dernière ligne se termine par un point et les autres par des virgules.
 * Faites une révision :
@@ -56,4 +56,6 @@ Liste des étudiants ayant réussi ce TP
 * Valentin Boyer,
 * Sylvain Pastor,
 * Lannes Mathieu,
-* Edwin DAZZAN.
+* Sitan Coulibaly,
+* Maxime Edwards,
+* Dazzan Edwin.
