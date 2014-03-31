@@ -51,5 +51,8 @@ Liste des étudiants ayant réussi ce TP
 * Cédric Lefèvre,
 * Florian Lecoeuche,
 * Jordy Guilbert,
-* Adrien Expert,
-* Sylvain Pastor.
+* Adrien Expert.
+* Loris Venturelli.
+* Valentin Boyer
+* Sylvain Pastor,
+>>>>>>> 112e226aa635ff24c8a2d506c326f9a42680f3bc
