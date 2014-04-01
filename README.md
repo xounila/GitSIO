@@ -58,5 +58,6 @@ Liste des étudiants ayant réussi ce TP
 * Lannes Mathieu,
 * Sitan Coulibaly,
 * Maxime Edwards,
-* Dazzan Edwin.
-* Julien Martinez.
+* Dazzan Edwin,
+* Julien Martinez,
+* Alex Santos.
