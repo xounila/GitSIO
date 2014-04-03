@@ -60,6 +60,7 @@ Liste des étudiants ayant réussi ce TP
 * Maxime Edwards,
 * Dazzan Edwin,
 * Julien Martinez,
-* Alex Santos.
-* Samir Weber.
-* Sylvain Cazanave.
+* Alex Santos,
+* Samir Weber,
+* Sylvain Cazanave,
+* Emmanuel Robert.
