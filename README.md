@@ -63,5 +63,6 @@ Liste des étudiants ayant réussi ce TP
 * Alex Santos,
 * Samir Weber,
 * Sylvain Cazanave,
-* Emmanuel Robert.
-* Salord Jérôme.
+* Emmanuel Robert,
+* Salord Jérôme,
+* Lacomblez Alain.
